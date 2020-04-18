@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: fastai
 ---
 
 #Hope it works
