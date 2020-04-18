@@ -7,4 +7,4 @@ github_username: SusumuAW
 
 # Build setting
 markdown: kramdown
-theme: jekyll-theme-leap-day
+theme: minima
