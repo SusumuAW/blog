@@ -1,1 +1,10 @@
+# basic option
+title: DeepLearning Blog
+author: Susumu Mori
+email: smoriw@gmail.com
+description: Log for deep learning of MRI
+github_username: SusumuAW
+
+# Build setting
+markdown: kramdown
 theme: jekyll-theme-leap-day
